@@ -1,5 +1,7 @@
 |Build Status| |Coverage Status|
 
+(Fork to deal with Zope library changes described here: https://github.com/zopefoundation/zope.sqlalchemy/issues/37 )
+
 ps_alchemy
 ==========
 
